@@ -5,7 +5,7 @@ This is a **production-ready, advanced version** of the Food Order React App.
 It is based on the original beginner-friendly repo, but rebuilt for advanced
 contributors with a focus on:
 
-- Production-scale backend (Go, PostgreSQL, Redis)
+- Production-scale backend 
 - Dockerized development & CI/CD pipelines
 - Horizontal scalability and performance
 
